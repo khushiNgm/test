@@ -1,0 +1,18 @@
+#new{
+    text-shadow:3px 3px red;
+}
+h2{
+    background-color: aqua;
+    
+}
+tr,th,td{
+border:1px solid black;
+width:20px;
+height:20px;
+cellpadding:5px;
+cellspacing:5px;
+background-color: blueviolet;
+}
+th{
+    background-color: brown;
+}

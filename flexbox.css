@@ -1,0 +1,34 @@
+.box{
+    width:90%;
+    height:100%;
+    border:3px solid black;
+    background-color: turquoise;
+}
+
+.box1{
+    width:20%;
+    height:20%;
+    border:3px solid black;
+    background-color:cadetblue;
+}
+.box2{
+    width:20%;
+    height:20%;
+    border:3px solid black;
+    background-color:cadetblue;
+}
+
+.box3{
+    width:20%;
+    height:20%;
+    border:3px solid black;
+    background-color:cadetblue;
+}
+
+.box4{
+    width:20%;
+    height:20%;
+    border:3px solid black;
+    background-color:cadetblue;
+}
+
